@@ -1,4 +1,4 @@
-<h1 align="center">Chat App</h1>
+<h1 align="center">Food-app</h1>
 
 <p>Welcome to the Burger and Pizza Food App! This is an application that allows users to buy and order different types of burgers and pizzas. Payments can be made in cash or PayPal. The app also includes an administrator control panel where the store admin can manage the application's database and view all the details of the orders made by customers.
 </p>
