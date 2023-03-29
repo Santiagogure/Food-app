@@ -1,0 +1,47 @@
+.container {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  position: relative;
+  left: 20px;
+}
+
+.norder {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.item {
+  flex: 1;
+}
+
+.table {
+  width: 80%;
+  border-spacing: 20px;
+  text-align: left;
+}
+
+.actions {
+  display: flex;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.button:last-child {
+  background-color: #222;
+}
+
+.pagination {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
